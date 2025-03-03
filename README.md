@@ -37,7 +37,7 @@ The dataset includes **Rohit Sharma’s batting records** extracted from publicl
 - **Advanced statistical analysis** 📊  
 
 ## 🔗 Connect with Me  
-💼 [LinkedIn](https://www.linkedin.com/in/bhavyrajsinh-chavda/) | 📧 bhavyrajsinh@example.com  
+💼 [LinkedIn](https://www.linkedin.com/in/bhavyrajsinh-chavda/)
 
 📌 If you find this project useful, feel free to ⭐ the repo and contribute!  
 
